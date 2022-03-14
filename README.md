@@ -2,7 +2,7 @@
 
 The members of **Group-1** are:
 
-- [@FennyWilriani](/people/fennybio.md) 
+- [@FennyWilriani](/people/fennybio.md)
 - [@MMikhailova](/people/mariabio.md)
 - [@Dnyandeo33](/people/dnyandeo33.md)
 - [@NazgulM](/people/nazgulbio.md)
@@ -10,11 +10,9 @@ The members of **Group-1** are:
 - [@alexanderism55](/people/alexanderism55.md)
 - [@Haneefa-Shaik](/people/haneefa-shaik.md)
 
-
 HackYourFutureBelgium, 2022
 
 :rocket:
-
 
 ## Getting Started
 
