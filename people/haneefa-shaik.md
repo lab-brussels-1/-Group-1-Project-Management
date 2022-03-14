@@ -2,7 +2,8 @@
 
 ![alt hello](/photos/hello.gif)
 
-I am Haneefa. I am from India and i have been living in belgium since 3 years . I am a housewife currently.
+I am Haneefa. I am from India and i have been living in belgium since 3 years .
+I am a housewife currently.
 
 ## My Values
 
