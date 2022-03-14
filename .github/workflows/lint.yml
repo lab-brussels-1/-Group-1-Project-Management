@@ -4,7 +4,8 @@ on:
   pull_request:
     branches: [master, main]
     paths-ignore:
-      - "**.yml"
+      - '**.yml'
+ master
   push:
     branches: [master, main]
     paths-ignore:
