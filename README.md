@@ -1,6 +1,13 @@
-# (project name)
+# Group-1 Project
 
-<!-- describe your project -->
+The members of **Group-1** are:
+
+- [@FennyWilriani](/FennyWilriani.md) 
+
+HackYourFutureBelgium, 2022
+
+:rocket:
+
 
 ## Getting Started
 
