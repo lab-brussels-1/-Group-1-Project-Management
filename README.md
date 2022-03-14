@@ -9,7 +9,7 @@ The members of **Group-1** are:
 - [@MadhuMNG](/people/madhubio.md)
 - [@alexanderism55](/people/alexanderism55.md)
 - [@Haneefa-Shaik](/people/haneefa-shaik.md)
-- [@Abdijibar1]()
+- [@Abdijibar1](/people/Abdijibar1.md)
 
 HackYourFutureBelgium, 2022
 
