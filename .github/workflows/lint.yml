@@ -5,10 +5,11 @@ on:
     branches: [master, main]
     paths-ignore:
       - '**.yml'
+ master
   push:
     branches: [master, main]
     paths-ignore:
-      - '**.yml'
+      - "**.yml"
 
 jobs:
   lint:
