@@ -1,6 +1,6 @@
 # I love modern `ART`. I am for `PEACE`. I learn `CODING`
 
-![alt text](/photos/haring_banner.jpeg)
+![alt text](https://cdn.shopify.com/s/files/1/0969/9128/products/haring_banner_52b3eb25-7354-4ef1-ab14-ecf3b8f915b7_large.jpg?v=1507970285)
 
 ## Hi there :wave
 
