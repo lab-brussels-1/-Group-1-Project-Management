@@ -54,4 +54,4 @@ finally leads to burnout.
 _Stop comparing_ Every person's journey, every person's circumstances are
 different and unique. So stop comparing yourself with others.
 
-![space](https://media1.giphy.com/media/3FjEPbKqEPhPpmC8uY/200w.webp?cid=ecf05e47o38r6choholvs3pl5vuacb1nhb0w3wb9alnew5lt&rid=200w.webp&ct=g) 
+![space](https://media1.giphy.com/media/3FjEPbKqEPhPpmC8uY/200w.webp?cid=ecf05e47o38r6choholvs3pl5vuacb1nhb0w3wb9alnew5lt&rid=200w.webp&ct=g)
