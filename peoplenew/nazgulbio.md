@@ -1,6 +1,6 @@
 # Hi dears
 
-![image info](/photos/programmer.png)
+![space](https://e7.pngegg.com/pngimages/491/228/png-clipart-astronaut-outer-space-party-astronaut-food-label-thumbnail.png)
 
 **Coding** is one of the most interesting things for programmers and software
 developers. You started doing it for fun, it was your hobby, it was your passion
@@ -54,4 +54,4 @@ finally leads to burnout.
 _Stop comparing_ Every person's journey, every person's circumstances are
 different and unique. So stop comparing yourself with others.
 
-![image info](/photos/space.gif)
+![space](https://media1.giphy.com/media/3FjEPbKqEPhPpmC8uY/200w.webp?cid=ecf05e47o38r6choholvs3pl5vuacb1nhb0w3wb9alnew5lt&rid=200w.webp&ct=g) 
