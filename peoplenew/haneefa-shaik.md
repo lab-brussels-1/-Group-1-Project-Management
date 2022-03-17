@@ -1,6 +1,6 @@
 # Hi 👋 Welcome to my Bio
 
-![alt hello](/photos/Hello.gif)
+![alt hello](https://c.tenor.com/4h9k-OotwHoAAAAM/hello-akashicchan.gif)
 
 I am Haneefa. I am from India and i have been living in belgium since 3 years .
 I am a housewife currently.
