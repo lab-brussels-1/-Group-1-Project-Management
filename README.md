@@ -2,12 +2,11 @@
 
 The members of **Group-1** are:
 
-- [@FennyWilriani](/FennyWilriani.md) 
+- [@FennyWilriani](/FennyWilriani.md)
 
 HackYourFutureBelgium, 2022
 
 :rocket:
-
 
 ## Getting Started
 
